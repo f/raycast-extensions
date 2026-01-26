@@ -1,6 +1,6 @@
 # Changelog
 
-## [Initial Version] - {PR_MERGE_DATE}
+## [Initial Version] - 2026-01-26
 
 - Added Search Prompts command for searching AI prompts
 - Added Browse Prompts command with filtering by type and sorting
